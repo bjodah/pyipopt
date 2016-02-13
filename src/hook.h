@@ -2,7 +2,7 @@
 //  Licensed under BSD
 
 #include "Python.h"
-#include "IpStdCInterface.h"
+#include "coin/IpStdCInterface.h"
 #include <stdio.h>
 #include "numpy/arrayobject.h"
 
